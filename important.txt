@@ -1,0 +1,18 @@
+CSS:
+
+CSS stands for Cascading Style Sheets.
+ It is used to design and style web pages. 
+ CSS controls colors, fonts, backgrounds, spacing, borders, layouts, and animations. 
+ It makes websites attractive and responsive. CSS works with HTML to improve the appearance and user experience of web applications.
+
+Summary:It styles web pages,controls layouts,color,fonts and designs.
+
+
+
+Filter:
+
+The filter() method is used to create a new array containing only elements that satisfy a given condition. 
+It does not modify the original array. In React, it is useful for searching products, filtering students, 
+and displaying selected information based on specific conditions.
+
+Summary: Creates a new array containing elements matching specified conditions.
